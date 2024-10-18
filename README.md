@@ -1,2 +1,1 @@
-# gir-practice
 # git-practive
